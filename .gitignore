@@ -26,3 +26,9 @@
 !btop/
 !btop/**
 btop/*.log
+
+!nvim/
+!nvim/**
+
+!konsole/
+!konsole/**
