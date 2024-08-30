@@ -6,20 +6,36 @@ Id_4=4699b951-c47e-49a3-84ec-a7936fa7f2e1
 Number=4
 Rows=1
 
+[Effect-cube]
+CubeFaceDisplacement=0
+DistanceFactor=2.26
+
 [Plugins]
+blurEnabled=true
+cubeEnabled=true
 krohnkiteEnabled=false
+sheetEnabled=true
+wobblywindowsEnabled=true
 
 [Script-krohnkite]
 enableFloatingLayout=true
 enableQuarterLayout=true
-enableSpreadLayout=false
-enableStairLayout=false
+enableStackedLayout=true
+limitTileWidthRatio=0
+screenGapBottom=10
+screenGapLeft=10
+screenGapRight=10
+screenGapTop=10
+tileLayoutGap=10
 
 [Tiling]
 padding=4
 
-[Tiling][c18ebf5a-a117-5d2a-a173-18e96bff20fe]
+[Tiling][7a0ae710-ad9f-5a77-96e7-0ffc06fec125]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][c18ebf5a-a117-5d2a-a173-18e96bff20fe]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.47734374999999984},{"layoutDirection":"vertical","tiles":[{"height":0.5},{"height":0.5}],"width":0.5226562500000002}]}
 
 [Tiling][d02c035d-eef0-5c68-aa2f-2e83d0ba08b1]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}

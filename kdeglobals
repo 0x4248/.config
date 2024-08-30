@@ -137,11 +137,10 @@ ForegroundVisited=155,89,182
 
 [DirSelect Dialog]
 DirSelectDialog Size=960,540
-History Items[$e]=file:$HOME/.config/,file:$HOME/.config/
+History Items[$e]=file:$HOME/.config/,file:$HOME/Documents/Wiki,file:$HOME/Documents/Private/IssueLink,file:$HOME/Documents/Private,file:$HOME/.config/,file:$HOME/.config/
 
 [General]
-ColorScheme=KlassyGrey
-ColorSchemeHash=4a48bd34ba53d580d8594cb0216221e77518509f
+ColorSchemeHash=d16bcb2d5301eb40dfe4409c6085207018c08939
 
 [Icons]
 Theme=klassy
@@ -166,9 +165,9 @@ Show hidden files=false
 Sort by=Name
 Sort directories first=true
 Sort hidden files last=false
-Sort reversed=false
+Sort reversed=true
 Speedbar Width=140
-View Style=DetailTree
+View Style=Simple
 
 [WM]
 activeBackground=59,59,59
