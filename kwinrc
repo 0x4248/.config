@@ -14,6 +14,7 @@ DistanceFactor=2.26
 blurEnabled=true
 cubeEnabled=true
 krohnkiteEnabled=false
+mousemarkEnabled=true
 sheetEnabled=true
 wobblywindowsEnabled=true
 
@@ -44,5 +45,7 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 Scale=1
 
 [org.kde.kdecoration2]
+BorderSize=Normal
+BorderSizeAuto=false
 library=org.kde.klassy
 theme=Klassy

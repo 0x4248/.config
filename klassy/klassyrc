@@ -13,9 +13,10 @@ TitleBarBottomMargin=0
 TitleBarTopMargin=0
 
 [Windeco]
+AnimationsSpeedRelativeSystem=2
 ButtonIconStyle=StyleRedmond11
 ButtonShape=ShapeFullHeightRoundedRectangle
-CornerRadius=6
+CornerRadius=5
 DrawBorderOnMaximizedWindows=true
 RoundBottomCornersWhenNoBorders=true
 
@@ -32,6 +33,6 @@ OpaqueTitleBar=true
 PreventApplyOpacityToHeader=false
 
 [WindowOutlineStyle]
-ThinWindowOutlineThickness=3.5
+ThinWindowOutlineThickness=4
 WindowOutlineAccentColorOpacityActive=100
 WindowOutlineAccentWithContrastOpacityInactive=40
