@@ -2,10 +2,13 @@
 LookAndFeelSet=org.kde.breezedark.desktop
 
 [Style]
+DockWidgetDrawFrame=true
+MenuItemDrawStrongFocus=false
 ScrollBarBottomOneButtonSpacing=-2
 ScrollBarSliderPadding=2
 ScrollBarSliderThicknessMouseOver=10
 ScrollBarTopOneButtonSpacing=-2
+SidePanelDrawFrame=true
 
 [TitleBarSpacing]
 PercentMaximizedTopBottomMargins=0
@@ -16,7 +19,8 @@ TitleBarTopMargin=0
 AnimationsSpeedRelativeSystem=2
 ButtonIconStyle=StyleRedmond11
 ButtonShape=ShapeFullHeightRoundedRectangle
-CornerRadius=5
+CornerRadius=4
+DrawBackgroundGradient=true
 DrawBorderOnMaximizedWindows=true
 RoundBottomCornersWhenNoBorders=true
 

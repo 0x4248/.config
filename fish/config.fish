@@ -31,7 +31,7 @@ function owoii
     owo $argv | figlet
 end
 
-set -x PATH $PATH ~/.scripts ~/.local/bin/
+set -x PATH $PATH ~/.scripts ~/.scripts/bin/ ~/.local/bin/
 
 if status is-interactive
 

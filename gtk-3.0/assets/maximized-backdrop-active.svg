@@ -12,10 +12,10 @@ font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal"
 >
 </g>
 
-<g fill="#06a9ff" fill-opacity="0.719997" stroke="#06a9ff" stroke-opacity="1" stroke-width="2.5025" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2.5,2.5)"
+<g fill="#57aff4" fill-opacity="0.719997" stroke="#57aff4" stroke-opacity="1" stroke-width="2.5025" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2.5,2.5)"
 font-family="Noto Sans" font-size="10" font-weight="400" font-style="normal" 
 >
-<path vector-effect="none" fill-rule="evenodd" d="M-1.25125,8.74875 C-1.25125,3.2259 3.2259,-1.25125 8.74875,-1.25125 L36.2512,-1.25125 C41.7741,-1.25125 46.2512,3.2259 46.2512,8.74875 L46.2512,36.2512 C46.2512,41.7741 41.7741,46.2512 36.2512,46.2512 L8.74875,46.2512 C3.2259,46.2512 -1.25125,41.7741 -1.25125,36.2512 L-1.25125,8.74875"/>
+<path vector-effect="none" fill-rule="evenodd" d="M-1.25125,6.74875 C-1.25125,2.33047 2.33047,-1.25125 6.74875,-1.25125 L38.2512,-1.25125 C42.6695,-1.25125 46.2512,2.33047 46.2512,6.74875 L46.2512,38.2512 C46.2512,42.6695 42.6695,46.2512 38.2512,46.2512 L6.74875,46.2512 C2.33047,46.2512 -1.25125,42.6695 -1.25125,38.2512 L-1.25125,6.74875"/>
 </g>
 
 <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"

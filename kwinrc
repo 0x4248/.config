@@ -10,9 +10,16 @@ Rows=1
 CubeFaceDisplacement=0
 DistanceFactor=2.26
 
+[Effect-magiclamp]
+AnimationDuration=1000
+
+[Effect-mousemark]
+LineWidth=4
+
 [Plugins]
 blurEnabled=true
 cubeEnabled=true
+dimscreenEnabled=true
 krohnkiteEnabled=false
 mousemarkEnabled=true
 sheetEnabled=true
@@ -32,7 +39,13 @@ tileLayoutGap=10
 [Tiling]
 padding=4
 
+[Tiling][628d3c11-6df0-5ac6-9c7b-f4085cac75c8]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][7a0ae710-ad9f-5a77-96e7-0ffc06fec125]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][92e842d7-5928-5c43-884a-4912e7cc82ed]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][c18ebf5a-a117-5d2a-a173-18e96bff20fe]
